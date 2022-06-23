@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
 
-<a href="https://github.com/dsaha04/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaha04&layout=compact&count_private=true&theme=tokyonight&hide=css&border_color=#fff" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&layout=compact&count_private=true&theme=tokyonight&hide=css&border_color=#fff" />
+
