@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello there, I'm Adam! 👋
 
 - 💪 I’m currently working on [MealMatch](https://mealmatch-app.herokuapp.com), a platform for Princeton students to meet new people over meals in the dining halls. Soon to be a [TigerApp](https://tigerapps.org) in Fall 2022!
-- 🧬 I'm currently working as a Software Engineering Intern at [Adaptive Biotechnologies](https://www.adaptivebiotech.com/), where I develop internal applications to manage the processing of various clinical diagnostic products (e.g cancer, COVID, and other diseases)
+- 🧬 I'm currently working as a Software Engineering Intern at [Adaptive Biotechnologies](https://www.adaptivebiotech.com/), where I develop internal applications to manage the processing of various clinical diagnostic products (e.g tests for cancer, COVID, and other diseases)
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
