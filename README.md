@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: You can email me at akelch @ princeton (dot) edu
+- 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <a href = "https://github.com/akelch11/akelch11/">
