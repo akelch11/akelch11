@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello there, I'm Adam! 👋
 
 - 💪 I’m currently working on [MealMatch](https://mealmatch-app.herokuapp.com), a platform for Princeton students to meet new people over meals in the dining halls. Soon to be a [TigerApp](https://tigerapps.org) in Fall 2022! See the repo on my profile.
-- 🔊 Another new project I'm working on is [Variefy]((https://variefy.herokuapp.com), a Spotify playlist generator that recommends new, unfamiliar music that is similar to your current music taste using K-Means machine learning algorithm and the Spotify API. [Repo Link] (https://github.com/nickcheo/PlaylistGenerator)
+- 🔊 Another new project I'm working on is [Variefy]((https://variefy.herokuapp.com), a Spotify playlist generator that recommends new, unfamiliar music that is similar to your current music taste using K-Means machine learning algorithm and the Spotify API. [Repo Link] (github.com/nickcheo/PlaylistGenerator)
 - 🧬 I'm currently working as a Software Engineering Intern at [Adaptive Biotechnologies](https://www.adaptivebiotech.com/), where I develop internal applications to manage the processing of various clinical diagnostic products (e.g tests for cancer, COVID, and other diseases)
 - 📰 I also am involved with the [Daily Princetonian](https://www.dailyprincetonian.com/) tech team as a Software Engineer. I help maintain and update the [Campus](https://www.prince.buzz/) app.
 <!-- - 🌱 I’m currently learning ...
