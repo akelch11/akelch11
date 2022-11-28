@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <a href = "https://github.com/akelch11/akelch11/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=true&theme=tokyonight&border_color=#ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=false&theme=tokyonight&border_color=#ffffff" />
 </a>
 
 <br/>
   <a href = "https://github.com/akelch11/akelch11/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&layout=compact&count_private=true&theme=tokyonight&hide=procfile&border_color=#ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&layout=compact&count_private=true&theme=tokyonight&hide=procfile&border_color=#fffffa" />
   </a>
