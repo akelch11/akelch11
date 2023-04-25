@@ -17,10 +17,21 @@ Here are some ideas to get you started:
 
 ### Hello there, I'm Adam! 👋
 
-- 💪 I’m currently working on [MealMatch](https://mealmatch-app.herokuapp.com), a platform for Princeton students to meet new people over meals in the dining halls. Soon to be a [TigerApp](https://tigerapps.org) in Fall 2022! See the repo on my profile.
-- 🔊 I'm also  working on [Variefy](https://variefy.herokuapp.com), a Spotify playlist generator app that recommends new, unfamiliar music that is similar to your current music taste using K-Means machine learning algorithm and the Spotify API. Repo pinned to profile.
+
+##### 2023
+- 👁️ I am starting as a Software Engineering Intern at IBM Watson this summer!
+- 🔎 I am working as a Research Assistant under advisory of [Dr. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extent explainable AI methods like CNN feature visualization to text-to-image generative models.
+- 🐅 I have joined the [TigerApps](https://tigerapps.org/#about) team! I'm excited to help oversee and direct growth of socially beneficial software on the Princeton campus!
+
+
+##### 2022
+- 🍽️ I previously worked on [MealMatch](https://mealmatch-app.herokuapp.com), a platform for Princeton students to meet new people over meals in the dining halls. Soon to be a [TigerApp](https://tigerapps.org) in Fall 2022! See the repo on my profile.
+- 🔊 I also reently completed [Variefy](https://variefy.herokuapp.com), a Spotify playlist generator app that recommends new, unfamiliar music that is similar to your current music taste using K-Means machine learning algorithm and the Spotify API. Repo pinned to profile.
 - 🧬 I most recently worked as a Software Engineering Intern at [Adaptive Biotechnologies](https://www.adaptivebiotech.com/), where I developed internal applications to manage the processing of various clinical diagnostic products (e.g tests for cancer, COVID, and other diseases)
 - 📰 I also am involved with the [Daily Princetonian](https://www.dailyprincetonian.com/) tech team as a Software Engineer. I help maintain and update the [Campus](https://www.prince.buzz/) app.
+
+
+
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
