@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me abou... -->
+
+##### General
 - 📫 How to reach me: You can email me at akelch@princeton.edu
 - 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
 <!-- - 😄 Pronouns: ...
 
-##### General
+
 
 <a href = "https://github.com/akelch11/akelch11/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=false&theme=tokyonight&border_color=#ffffff" />
