@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
 <!-- - 😄 Pronouns: ...
 
+##### General
 
 <a href = "https://github.com/akelch11/akelch11/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=false&theme=tokyonight&border_color=#ffffff" />
