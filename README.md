@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 ### Hello there, I'm Adam! 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11)](https://github.com/akelch11)
 ##### 2023
 - 👁️ I am starting as a Software Engineering Intern at IBM this summer!
 - 🔎 I am working as a Research Assistant under advisory of [Dr. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extent explainable AI methods like CNN feature visualization to text-to-image generative models.
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
 
 
 
+
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can email me at akelch@princeton.edu
 - 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
 <!-- - 😄 Pronouns: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&theme=tokyonight&count_private=true&hide=jupyter%20notebook)](https://github.com/akelch11)
 
 
 
