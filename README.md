@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
 <!-- - 😄 Pronouns: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&theme=tokyonight&count_private=true)](https://github.com/akelch11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&count_private=true)](https://github.com/akelch11)
 
 
 
