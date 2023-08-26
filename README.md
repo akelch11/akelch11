@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 ### Hello there, I'm Adam! 👋
-<! --- [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=akelch11)](https://github.com/akelch11) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11)](https://github.com/akelch11)
 ##### 2023
 - 👁️ I am starting as a Software Engineering Intern at IBM this summer!
