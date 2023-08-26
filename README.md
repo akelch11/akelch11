@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello there, I'm Adam! 👋
 ##### 2023
 - 👁️ I am starting as a Software Engineering Intern at IBM this summer!
-- 🔎 I am working as a Research Assistant under advisory of [Dr. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extent explainable AI methods like CNN feature visualization to text-to-image generative models.
+- 🔎 I am working as a Research Assistant under advisory of [Dr. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extend explainable AI methods like CNN feature visualization to text-to-image generative models.
 - 🐅 I am Co-President of the [TigerApps](https://tigerapps.org/#about) team! I'm excited to direct growth of socially beneficial software on the Princeton campus!
 
 
