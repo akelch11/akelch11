@@ -39,9 +39,11 @@ Here are some ideas to get you started:
 ##### General
 - 📫 How to reach me: You can email me at akelch@princeton.edu
 - 👔 View my resume / work history at my [LinkedIn](https://www.linkedin.com/in/adam-kelch) profile.
-<!-- - 😄 Pronouns: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&count_private=true)](https://github.com/akelch11)
+<!-- - 😄 Pronouns: ...
+
+
 
 
 
