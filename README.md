@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello there, I'm Adam! 👋
 ##### 2024
 
-- 🌲🍦 I'm starting full time as an Engineer at [Pinecone!](https://www.pinecone.io/) Pinecone builds a vector database for empowering GenAI workflow and application development.
+- 🌲🍦 I'm starting full time as an Engineer at [Pinecone](https://www.pinecone.io/) (Summer '24)! Pinecone builds a vector database for empowering GenAI workflow and application development.
 - 🔎 I'm working on research using diffusion AI models to create synthetic data for geographically diverse image datasets for my Princeton senior thesis ([advised by Prof. Vikram Ramaswamy](https://www.cs.princeton.edu/~vr23/))
 
 
