@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 
 
 ### Hello there, I'm Adam! 👋
+##### 2024
+
+- 🌲🍦 I'm starting full time as an Engineer at [Pinecone!](https://www.pinecone.io/) Pinecone builds a vector database for empowering GenAI workflow and application development.
+- 🔎 I'm working on research using diffusion AI models to create synthetic data for geographically diverse image datasets for my Princeton senior thesis ([advised by Prof. Vikram Ramaswamy](https://www.cs.princeton.edu/~vr23/))
+
+
+
 ##### 2023
-- 👁️ I am starting as a Software Engineering Intern at IBM this summer!
-- 🔎 I am working as a Research Assistant under advisory of [Dr. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extend explainable AI methods like CNN feature visualization to text-to-image generative models.
+- 👁️ I worked as a Software Engineering Intern at IBM this summer!
+- 🔎 I am working as a Research Assistant under advisory of [Prof. Ruth Fong](https://ruthfong.com), studying ML interpretability and working on a project to extend explainable AI methods like CNN feature visualization to text-to-image generative models.
 - 🐅 I am Co-President of the [TigerApps](https://tigerapps.org/#about) team! I'm excited to direct growth of socially beneficial software on the Princeton campus!
 
 
